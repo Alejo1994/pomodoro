@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "pomodoro-b2b42": {
+      "hosting": {
+        "pomodoro": [
+          "pomodoro-b2b42"
+        ]
+      }
+    }
+  }
+}

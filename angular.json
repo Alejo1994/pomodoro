@@ -117,8 +117,16 @@
               "devServerTarget": "pomodoro:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "pomodoro"
+    }
+  },
+  "defaultProject": "pomodoro",
+  "cli": {
+    "analytics": false
+  }
 }
